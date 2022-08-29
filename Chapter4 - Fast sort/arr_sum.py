@@ -7,5 +7,5 @@ def arr_sum(arr):
         return arr[0] + arr_sum(arr[1:])
 
 
-arr = []
+arr = [3, 5]
 print(arr_sum(arr))
