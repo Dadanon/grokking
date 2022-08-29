@@ -1,6 +1,6 @@
 ### Typical O(n) for different cases
 ***
-- O(log *n*) - *logarithmical* time
+- O(log *n*) - *logarithmic* time
 
   ***Example*** - binary search.
   
