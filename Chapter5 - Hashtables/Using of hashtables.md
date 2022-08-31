@@ -23,8 +23,8 @@ Also IP adresses in WEB
         if voted.get(person):
             print("Kick them out!")
         else:
-            print("Let them vote!")
             voted[person] = True
+            print("Let them vote!")
         
 - _Caching_
 
